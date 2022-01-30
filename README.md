@@ -1,4 +1,4 @@
-# personal-website
+# Login-Signup
 
 ## Project setup
 ```
