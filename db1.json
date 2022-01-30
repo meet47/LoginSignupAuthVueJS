@@ -1,0 +1,70 @@
+{
+  "user": [
+    {
+      "fullname": "Meet Bardoliya",
+      "email": "meetbardoliya28@gmail.com",
+      "password": "Meet#8237",
+      "id": 1
+    },
+    {
+      "fullname": "Harikesh Prajapati",
+      "email": "hp528122@gmail.com",
+      "password": "Ap12ap12@",
+      "id": 2
+    },
+    {
+      "fullname": "Raj Shah",
+      "email": "rajshah21@gmail.com",
+      "password": "RajShah21",
+      "id": 3
+    },
+    {
+      "fullname": "Deep Punjabi ",
+      "email": "deep.punjabi@gmail.com",
+      "password": "DeepPunjabi12",
+      "id": 4
+    },
+    {
+      "fullname": "Dhruvil Avaiya",
+      "email": "dhruvilavaiya23@gmail.com",
+      "password": "davaiya",
+      "id": 5
+    },
+    {
+      "fullname": "dsf",
+      "email": "sdf",
+      "password": "df",
+      "id": 6
+    },
+    {
+      "fullname": "adas",
+      "email": "df",
+      "password": "dv",
+      "id": 7
+    },
+    {
+      "fullname": "sdf",
+      "email": "sdf",
+      "password": "dsf",
+      "id": 8
+    },
+    {
+      "fullname": "asd",
+      "email": "sd",
+      "password": "sdf",
+      "id": 9
+    },
+    {
+      "fullname": "Ravi Shashtri",
+      "email": "ravis@bcci.com",
+      "password": "RaviShashtri",
+      "id": 10
+    },
+    {
+      "fullname": "Virat Kohli ",
+      "email": "vk18@hotmail.com",
+      "password": "SuperStar",
+      "id": 11
+    }
+  ]
+}
